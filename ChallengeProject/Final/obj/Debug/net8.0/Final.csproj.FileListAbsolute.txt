@@ -12,3 +12,4 @@ C:\Users\MECRUN\Downloads\Challenge-project-debugging-CSharp-main\Challenge-proj
 C:\Users\MECRUN\Downloads\Challenge-project-debugging-CSharp-main\Challenge-project-debugging-CSharp-main\ChallengeProject\Final\obj\Debug\net8.0\Final.pdb
 C:\Users\MECRUN\Downloads\Challenge-project-debugging-CSharp-main\Challenge-project-debugging-CSharp-main\ChallengeProject\Final\obj\Debug\net8.0\Final.genruntimeconfig.cache
 C:\Users\MECRUN\Downloads\Challenge-project-debugging-CSharp-main\Challenge-project-debugging-CSharp-main\ChallengeProject\Final\obj\Debug\net8.0\ref\Final.dll
+C:\Users\MECRUN\Downloads\Challenge-project-debugging-CSharp-main\Challenge-project-debugging-CSharp-main\ChallengeProject\Final\obj\Debug\net8.0\Final.sourcelink.json

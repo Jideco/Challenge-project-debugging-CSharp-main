@@ -12,3 +12,4 @@ C:\Users\MECRUN\Downloads\Challenge-project-debugging-CSharp-main\Challenge-proj
 C:\Users\MECRUN\Downloads\Challenge-project-debugging-CSharp-main\Challenge-project-debugging-CSharp-main\ChallengeProject\Starter\obj\Debug\net8.0\Starter.pdb
 C:\Users\MECRUN\Downloads\Challenge-project-debugging-CSharp-main\Challenge-project-debugging-CSharp-main\ChallengeProject\Starter\obj\Debug\net8.0\Starter.genruntimeconfig.cache
 C:\Users\MECRUN\Downloads\Challenge-project-debugging-CSharp-main\Challenge-project-debugging-CSharp-main\ChallengeProject\Starter\obj\Debug\net8.0\ref\Starter.dll
+C:\Users\MECRUN\Downloads\Challenge-project-debugging-CSharp-main\Challenge-project-debugging-CSharp-main\ChallengeProject\Starter\obj\Debug\net8.0\Starter.sourcelink.json
